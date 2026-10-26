@@ -1,0 +1,6 @@
+controller,avg_wait,max_wait,energy,unserved
+DQN lam=0.02,21.2,88.1,376.6,23.5
+DQN lam=0.1,18.5,81.8,289.7,20.0
+DQN lam=0.3,35.7,133.6,159.5,35.5
+Nearest-car,3.5,16.4,341.8,1.6
+SCAN-style,4.8,17.1,483.7,2.4
